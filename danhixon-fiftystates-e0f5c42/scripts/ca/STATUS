@@ -1,0 +1,10 @@
+[California]
+abbreviation: ca
+start_year: 1995
+bills: yes
+bill_versions: yes
+sponsors: yes
+actions: yes
+votes: no
+contributors: Michael Stephens
+notes:

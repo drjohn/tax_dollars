@@ -1,0 +1,219 @@
+BODY
+{
+    FONT-SIZE: 1em;
+    COLOR: #000000;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    BACKGROUND-COLOR: #ffffff
+}
+UL
+{
+    FONT-SIZE: 0.8em;
+    FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+OL
+{
+    FONT-SIZE: 0.8em;
+    FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+P
+{
+    FONT-SIZE: 0.8em;
+    MARGIN-BOTTOM: 0px;
+    FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+TH
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 0.7em;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    TEXT-ALIGN: center
+}
+TH.row
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 0.7em;
+    TEXT-ALIGN: left
+}
+TD
+{
+    FONT-SIZE: 0.7em;
+    FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+TD.text
+{
+    FONT-SIZE: 0.7em;
+    VERTICAL-ALIGN: top;
+    TEXT-ALIGN: left
+}
+TD.head
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 0.7em;
+    VERTICAL-ALIGN: top;
+    WHITE-SPACE: nowrap;
+    TEXT-ALIGN: left
+}
+TD.headnorm
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 0.7em;
+    VERTICAL-ALIGN: top;
+    WHITE-SPACE: nowrap;
+    TEXT-ALIGN: left
+}
+TD.dash
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 0.7em;
+    VERTICAL-ALIGN: middle;
+    TEXT-ALIGN: center
+}
+TD.center
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 0.7em;
+    VERTICAL-ALIGN: middle;
+    TEXT-ALIGN: center
+}
+TD.total
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 0.7em;
+    VERTICAL-ALIGN: middle;
+    TEXT-ALIGN: center
+}
+.shaded
+{
+    FONT-SIZE: 0.7em;
+    COLOR: #000000;
+    BACKGROUND-COLOR: #f0f0f0
+}
+TR.norm
+{
+    FONT-WEIGHT: normal;
+    TEXT-ALIGN: right
+}
+TR.total
+{
+    FONT-WEIGHT: bold;
+    TEXT-ALIGN: right
+}
+H1
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 1.4em;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    TEXT-ALIGN: center
+}
+H2
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 1.2em;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    TEXT-ALIGN: center
+}
+H2.blue
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 1.1em;
+    COLOR: #0000a0;
+    TEXT-ALIGN: left
+}
+H3
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 1.1em;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    TEXT-ALIGN: center
+}
+H3.small
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 0.8em;
+    TEXT-ALIGN: left
+}
+H4
+{
+    MARGIN-TOP: 0em;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 1.1em;
+    MARGIN-BOTTOM: 0em;
+    COLOR: #ffffff;
+    FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+H5
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 1em;
+    FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.small
+{
+    FONT-SIZE: 0.7em
+}
+.footnote
+{
+    FONT-SIZE: 0.7em
+}
+.nonptext
+{
+    FONT-SIZE: 0.8em
+}
+.footer
+{
+    FONT-SIZE: 11px! important
+}
+.cgrumb
+{
+    FONT-SIZE: 90%;
+    COLOR: #000000
+}
+.cgrumb:hover
+{
+    COLOR: #000000;
+    TEXT-DECORATION: none
+}
+.cgrumb:visited
+{
+    COLOR: #000000
+}
+.unmag
+{
+    FONT-SIZE: 1em;
+    FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.imgheader
+{
+    FONT-SIZE: 3em;
+    COLOR: #0000a0;
+    FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.imgheader2
+{
+    FONT-SIZE: 1.5em;
+    FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.blueheader
+{
+    COLOR: #0000a0
+}
+.headers
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 1em;
+    COLOR: #000000;
+    FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.header
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 1em;
+    COLOR: #000000;
+    FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+ 
+.red
+{
+    COLOR: #ff0000;
+    BACKGROUND-COLOR: #ffffff
+}
